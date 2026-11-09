@@ -1,0 +1,43 @@
+SAMPLE PAYSLIPS FROM THE PROJECT TEST CASES
+These are example records. Run one.py to append your own entries.
+
+----------------------------------------
+             EMPLOYEE PAYSLIP           
+----------------------------------------
+Employee ID   : E1
+Name          : Aman
+Employee Type : Employee
+Basic Pay     : Rs.30000.00
+Overtime      : Rs.2000.00
+Gross Salary  : Rs.32000.00
+PF (12%)      : Rs.3600.00
+Tax           : Rs.0.00
+Net Salary    : Rs.28400.00
+----------------------------------------
+----------------------------------------
+             EMPLOYEE PAYSLIP           
+----------------------------------------
+Employee ID   : E2
+Name          : Neha
+Employee Type : Employee
+Basic Pay     : Rs.10000.00
+Overtime      : Rs.0.00
+Gross Salary  : Rs.10000.00
+PF (12%)      : Rs.1200.00
+Tax           : Rs.0.00
+Net Salary    : Rs.8800.00
+----------------------------------------
+----------------------------------------
+             EMPLOYEE PAYSLIP           
+----------------------------------------
+Employee ID   : M1
+Name          : Riya
+Employee Type : Manager
+Basic Pay     : Rs.60000.00
+Overtime      : Rs.1000.00
+Bonus         : Rs.6000.00
+Gross Salary  : Rs.67000.00
+PF (12%)      : Rs.7200.00
+Tax           : Rs.6700.00
+Net Salary    : Rs.53100.00
+----------------------------------------
